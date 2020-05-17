@@ -1,0 +1,10 @@
+MarsFramwork-AutomationTest/Mars[[:space:]]share[[:space:]]skill[[:space:]]management[[:space:]]section[[:space:]]test[[:space:]]conditions[[:space:]]and[[:space:]]cases.xlsx filter=lfs diff=lfs merge=lfs -text
+MarsFramwork-AutomationTest/MarsFramework filter=lfs diff=lfs merge=lfs -text
+MarsFramwork-AutomationTest/MarsFramework.sln filter=lfs diff=lfs merge=lfs -text
+MarsFramwork-AutomationTest/packages filter=lfs diff=lfs merge=lfs -text
+MarsFramwork-AutomationTest/TestData.xlsx filter=lfs diff=lfs merge=lfs -text
+SpecflowTests/SpecflowTests_Examples.sln filter=lfs diff=lfs merge=lfs -text
+SpecflowTests/TestResults filter=lfs diff=lfs merge=lfs -text
+SpecflowTests/packages filter=lfs diff=lfs merge=lfs -text
+SpecflowTests/SpecflowPages filter=lfs diff=lfs merge=lfs -text
+SpecflowTests/SpecflowTests filter=lfs diff=lfs merge=lfs -text
